@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Alessio;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Alessio" alt="Typing SVG" />
 </p>
+
 # 💫 About Me:
 ---
 Junior dev turning caffeine into code and pretending bugs are just undocumented features. Freshly landed in the industry, surviving my first real-world commits and tinkering across the stack.
