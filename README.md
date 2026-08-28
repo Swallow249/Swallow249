@@ -47,7 +47,6 @@ Junior dev turning caffeine into code and pretending bugs are just undocumented 
 ---
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Swallow249&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Swallow249&theme=flat&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 # 💬 Random Dev Quote:
