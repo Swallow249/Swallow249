@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Alessio;" alt="Typing SVG" />
 </p>
-
+<p align="center">
+  <img src="./Kris%20Deltarune%20GIF.gif" width="350" alt="Kris Deltarune" />
+</p>
 
 # 💫 About Me:
 ---
