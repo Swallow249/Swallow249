@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Alessio;" alt="Typing SVG" />
+</p>
 # 💫 About Me:
 ---
 Junior dev turning caffeine into code and pretending bugs are just undocumented features. Freshly landed in the industry, surviving my first real-world commits and tinkering across the stack.
@@ -48,6 +51,14 @@ Junior dev turning caffeine into code and pretending bugs are just undocumented 
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Swallow249&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
+
+# 🐍 Contribution Snake:
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swallow249/Swallow249/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Swallow249/Swallow249/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Swallow249/Swallow249/output/github-snake.svg" />
+</picture>
 
 # 💬 Random Dev Quote:
 ---
