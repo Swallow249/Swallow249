@@ -46,8 +46,8 @@ Junior dev turning caffeine into code and pretending bugs are just undocumented 
 # 📊 GitHub Stats:
 ---
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swallow249&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swallow249&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Swallow249&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=Swallow249&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 # 💬 Random Dev Quote:
